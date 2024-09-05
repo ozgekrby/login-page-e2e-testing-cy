@@ -1,0 +1,21 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url("src/assets/pexels-rpnickson-2559941.jpg");
+  background-position: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.container{
+  background: linear-gradient(45deg, rgba(77, 33, 20, 0.4), rgba(0, 0, 0, 1));
+  color:white;
+  border-radius: 5%;
+}
